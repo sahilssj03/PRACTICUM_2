@@ -1,0 +1,456 @@
+[
+  {
+    "startLocation": {
+      "description": "Goa, India",
+      "type": "Point",
+      "coordinates": [74.124, 15.2993],
+      "address": "Airport Rd, Dabolim, Goa 403801"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "The Sea Explorer",
+    "duration": 6,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 497,
+    "summary": "Exploring the jaw-dropping Indian east coast by foot and by boat",
+    "description": "Goa is visited by large numbers of international and domestic tourists each year because of its white-sand beaches, active nightlife, places of worship, and World Heritage-listed architecture. It also has rich flora and fauna because it lies on the Western Ghats range, a biodiversity hotspot.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Baga Beach",
+        "type": "Point",
+        "coordinates": [73.7517, 15.5553],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Calangute Beach",
+        "type": "Point",
+        "coordinates": [73.7535, 15.5494],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Grand Island",
+        "type": "Point",
+        "coordinates": [73.7626, 15.5455],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Casino Cruise",
+        "type": "Point",
+        "coordinates": [73.8212105, 15.5060791],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Assam, India",
+      "type": "Point",
+      "coordinates": [92.9376, 26.2006],
+      "address": "Guwahati, Assam, India"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "The Forest Hiker",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 397,
+    "summary": "Breathtaking hike through the national parks, sanctuaries and hills of the area of Assam",
+    "description": "Assam is a state in northeastern India, south of the eastern Himalayas along the Brahmaputra and Barak River valleys. Assam is home to the one-horned Indian rhinoceros, along with the wild water buffalo, pygmy hog, tiger and various species of Asiatic birds, and provides one of the last wild habitats for the Asian elephant. The Assamese economy is aided by wildlife tourism to Kaziranga National Park and Manas National Park, which are World Heritage Sites. Dibru-Saikhowa National Park is famed for its feral horses. ",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Kaziranga National Park",
+        "type": "Point",
+        "coordinates": [93.1711, 26.5775],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Chakrashila Wildlife Sanctuary",
+        "type": "Point",
+        "coordinates": [90.3295, 20.3377],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": " North Cachar Hills",
+        "type": "Point",
+        "coordinates": [93.0176, 25.3478],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "J&K, India",
+      "type": "Point",
+      "coordinates": [75.3412, 33.2778],
+      "address": "Jammu airport, J&K, India"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "The Snow Adventurer",
+    "duration": 2,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 997,
+    "summary": "Exciting adventure in the snow with snowboarding and skiing in the gorgeous valleys of Jammu and Kashmir",
+    "description": "Jammu and Kashmir is home to several valleys such as the Kashmir Valley, Chenab Valley, Sindh Valley and Lidder Valley. Some major tourist attractions in Jammu and Kashmir are Srinagar, the Mughal Gardens, Gulmarg, Pahalgam, Patnitop and Jammu. Every year, thousands of Hindu pilgrims visit holy shrines of Vaishno Devi and Amarnath which has had significant impact on the state's economy. Kashmir Valley is one of the top tourist destinations of India.",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Gulmarg Valley",
+        "type": "Point",
+        "coordinates": [74.38, 34.05],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "The Kashmir Valley",
+        "type": "Point",
+        "coordinates": [74.75, 34.1667],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Madhya Pradesh, India",
+      "type": "Point",
+      "coordinates": [78.6569, 22.9734],
+      "address": "Gwalior, MP, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "The Park Camper",
+    "duration": 9,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 1497,
+    "summary": "Breathing in Nature in Madhya Pradesh's most spectacular National Parks",
+    "description": "There are 10 national parks and 25 wildlife sanctuaries in Madhya Pradesh. Apart from tiger, the national parks in Madhya Pradesh have animals like Leopard, Gaur, Chital, Sambar, Nilgai, Chinkara, Barking Deer, Barasingha, Samber Deer, Wild Boar, Monkey, Peacock, etc. One half of the state is forested and offers a unique panorama of wildlife. In the National Parks of Kanha, Bandhavgarh, Shivpuri and many others visitors have the opportunity to see the tiger, the bison and a wide variety of deer and antelope in natural surroundings.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Kanha National Park",
+        "type": "Point",
+        "coordinates": [80.6115, 22.3345],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Bandhavgarh National Park",
+        "type": "Point",
+        "coordinates": [80.9769, 23.6989],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Panna National Park",
+        "type": "Point",
+        "coordinates": [79.9417, 24.5905],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Satpura National Park",
+        "type": "Point",
+        "coordinates": [78.1438, 22.5705],
+        "day": 9
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kolkata, India",
+      "type": "Point",
+      "coordinates": [88.3639, 22.5726],
+      "address": "Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "The City Wanderer",
+    "duration": 5,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 1197,
+    "summary": "Living the life of Wanderlust in the India's one of the most beatiful cities",
+    "description": " The City of Kolkata is India's oldest operating port and its sole major riverine port. Kolkata is known as the cultural capital of India for the city's historical and architectural significance.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Victoria Memorial",
+        "type": "Point",
+        "coordinates": [88.3426, 22.5448],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "St. Paul's Cathedral",
+        "type": "Point",
+        "coordinates": [88.3467, 22.5442],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Fort Willliam",
+        "type": "Point",
+        "coordinates": [88.3359, 22.5542],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bir Billing, Himachal Pradesh",
+      "type": "Point",
+      "coordinates": [76.7236, 32.0456],
+      "address": "Bir, Himachal Pradesh"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2021-07-19T09:00:00.000Z",
+      "2021-09-06T09:00:00.000Z",
+      "2022-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "The Sports Lover",
+    "duration": 6,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2997,
+    "summary": "Paragliding, Rafting, Parasailing, parajumping, rock climbing and more, all in one tour",
+    "description": "Bir is a rural village located in the west of Joginder Nagar Valley in the state of Himachal Pradesh in northern India. The Bir-Billing area is a popular site for paraglider pilots, both Indians and visitors from all over the world. ",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Chougan Landing site",
+        "type": "Point",
+        "coordinates": [76.71081, 32.04074],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Kullu",
+        "type": "Point",
+        "coordinates": [77.1089, 31.9592],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Gunehar River Pool",
+        "type": "Point",
+        "coordinates": [76.75621, 32.04991],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": " Gujarat, India",
+      "type": "Point",
+      "coordinates": [70.1456, 24.0454],
+      "address": "Kutch, Gujarat, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "The Star Gazer",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2997,
+    "summary": "The most remote and stunningly beautiful places for seeing the night sky in the Kutch of Gujarat.",
+    "description": "The Great Rann of Kutch is a salt marsh in the Thar Desert in the Kutch District of Gujarat. Pristine white salt desert landscapes during winter where tourists can see the various sights of the Rann. Rann Utsav gives visitors not only a chance to experience a full moon on salt deserts but also get a taste of the local culture, cuisine, and hospitality. Specially built local houses are also used to house tourists to give them a taste of local traditions. Many adventure clubs and travel clubs organize expeditions.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Rann of kutch",
+        "type": "Point",
+        "coordinates": [70.1456, 24.0454],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Kalo Dungar – The Black Hill",
+        "type": "Point",
+        "coordinates": [69.485, 23.5603],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Mandvi Beach",
+        "type": "Point",
+        "coordinates": [69.3261, 22.8298],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Auli, UK",
+      "type": "Point",
+      "coordinates": [77.7478, 30.9494],
+      "address": "Auli, UK, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2021-12-16T10:00:00.000Z",
+      "2022-01-16T10:00:00.000Z",
+      "2022-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "The Winter Paradise",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 1497,
+    "summary": "Enjoy the Skiing in one of the best places in Uttarakhand",
+    "description": "The valley has one of highest number of flower species found anywhere in the world. Auli is a hiking and ski destination. The slopes are intended for both professional skiers and novices.  The GMVNL a state government agency which takes care of this resort, and Uttarakhand Tourism Department conduct winter sports competitions at Auli to encourage skiing in India. It has a 4 kilometres cable car, a chairlift and a ski lift, along with a maintained trek route.",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Auli, UK",
+        "type": "Point",
+        "coordinates": [77.7478, 30.9494],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Nashik Valley Wines",
+      "type": "Point",
+      "coordinates": [-122.29286, 38.294065],
+      "address": "Nashik, Maharashtra, India"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2021-02-12T10:00:00.000Z",
+      "2021-04-14T09:00:00.000Z",
+      "2021-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "The Wine Taster",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 1997,
+    "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+    "description": "Nashik valley wines are specially protected under the patent of the geographical indicator in India for the region of Nashik district in Maharashtra, India, where it is produced from several vineyards and the Sula wine is one of the major producer of Wines in Nashik. The wine is produced in two types: red and white. The district has 29 wineries in operation and consequently Nashik is occasionally known by the epithet as The Wine Capital of India.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Sula Vineyards",
+        "type": "Point",
+        "coordinates": [73.6885, 20.0069],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "York Winery & Tasting Room",
+        "type": "Point",
+        "coordinates": [73.67461, 20.01178],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Tiger Hill Vineyards Resort & Spa",
+        "type": "Point",
+        "coordinates": [73.79591, 19.993616],
+        "day": 5
+      }
+    ]
+  }
+]
